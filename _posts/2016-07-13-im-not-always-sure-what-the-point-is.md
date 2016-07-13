@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I'm not always sure what the point is.
-datePublished: '2016-07-13T15:10:21.692Z'
-dateModified: '2016-07-13T15:10:07.125Z'
-authors: []
-publisher: null
+datePublished: '2016-07-13T15:27:40.288Z'
+dateModified: '2016-07-13T15:27:31.531Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-07-13-im-not-always-sure-what-the-point-is.md
+authors: []
+publisher: null
+starred: false
 url: im-not-always-sure-what-the-point-is/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/945f3d99-239e-4b69-8a41-491ae15fecc6.jpg)
+
 I'm not always sure what the point is.
 
 I told myself that I could have this cookie with some tea if I started writing as opposed to binge watching House. So I'm sitting here eating my cookie and drinking tea while I write this.
@@ -39,7 +41,7 @@ want
 
 to write.
 
-Lately, I've been going through... a mental down. I've had anxiety attacks that incapacitate me, some depression, and a strong knowledge that I am not well... and I mean not well in a very worrying sense. I'm tired a lot in the depression way I know all too well... but twitchy... and my heart races... I can't stop thinking until I just... do stop thinking... and then I can't do anything. I know what the cause of it is, and it's a situation that I'm trying to get out of, but for the moment, I had to get extra help to cope with it. I talked to my doctor and got some extra medication --- Klonopin to take as needed for anxiety, Lexapro for depression, and Trazodone to take as needed to help regulate my sleep.
+Lately, I've been going through... a mental down. I've had anxiety attacks that incapacitate me, some depression, and a strong knowledge that I am not well... and I mean not well in a very worrying sense. I'm tired a lot in the depression way I know all too well... but twitchy... and my heart races... I can't stop thinking until I just... do stop thinking... and then I can't do anything. I know what the cause of it is, and it's a situation that I'm trying to get out of, but for the moment, I had to get extra help to cope with it. I talked to my doctor and got some extra medication --- Klonopin to take as needed for anxiety, Lexapro for depression, and Trazodone to take as needed to help regulate my sleep.
 
 I'm not one to go straight to medication as a cure. I learned a lot in therapy since I was diagnosed with Bipolar Disorder and I've done research on what helps my condition and moods. I know that exercise helps (but not strenuous exercise), that therapy/talking to someone helps, that making lists of positive things to combat the negative thoughts helps me visually see what's real, and I know that putting myself on a schedule and regulating my sleep when things are at their worst can set my mind on the right road. I tried all of my skills, have done everything I can to take care of me, but my mood stabilizer and the things I learned to do just haven't been cutting it. So I asked my doctor for some extra medication... because learning to ask for help is what I've learned to do.
 
