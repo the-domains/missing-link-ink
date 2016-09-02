@@ -1,19 +1,4 @@
-name: 'Missing Link, Ink.'
-favicon: null
-layout_spectrum: 0.01172
 typography_spectrum: 0.77908
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#2f2f2d'
@@ -25,4 +10,23 @@ color:
   lightness: 0.5
   saturation: 0.625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.01172
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'Missing Link, Ink.'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Blog
+    id: 06941304-351b-4344-9030-aa36f7520317
+    type: content
+favicon: null
 purpose: []
