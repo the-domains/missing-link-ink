@@ -1,24 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   I've been staring at this space to type out my post for a good 3-4 hours. I'm
   not sure what to write... or how to write it, I just know that I feel I have
   to say something to fill the silence... and maybe to help understand it.
-datePublished: '2016-07-13T15:36:40.449Z'
-dateModified: '2016-07-13T15:36:15.020Z'
+datePublished: '2016-08-31T12:37:02.886Z'
+dateModified: '2016-08-31T12:37:02.650Z'
 title: ''
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: >-
   _posts/2016-07-13-ive-been-staring-at-this-space-to-type-out-my-post-for-a-go.md
+authors: []
+publisher: {}
+via: {}
+starred: false
 url: ive-been-staring-at-this-space-to-type-out-my-post-for-a-go/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c89ce4-4f04-4cae-99d7-396b9c589811.jpg)
